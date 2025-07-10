@@ -1,3 +1,4 @@
+
 import React, { useRef, useEffect } from 'react';
 import { MapPin, Clock, Phone, Mail, Instagram, Facebook, Twitter } from 'lucide-react';
 
@@ -136,4 +137,3 @@ const Contact = () => {
   );
 };
 
-export default Contact;

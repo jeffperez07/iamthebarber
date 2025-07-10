@@ -1,3 +1,4 @@
+
 import React, { useRef, useEffect, useState } from 'react';
 import { Calendar, Clock, Scissors, User, Mail, Phone } from 'lucide-react';
 
@@ -248,4 +249,3 @@ const Booking = () => {
   );
 };
 
-export default Booking;

@@ -1,3 +1,4 @@
+
 import React, { useRef, useEffect } from 'react';
 import { Instagram, Facebook, Twitter } from 'lucide-react';
 
@@ -115,4 +116,3 @@ const Team = () => {
   );
 };
 
-export default Team;

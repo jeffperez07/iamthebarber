@@ -1,3 +1,4 @@
+
 import React, { useRef, useEffect, useState } from 'react';
 import { ChevronLeft, ChevronRight } from 'lucide-react';
 
@@ -146,4 +147,3 @@ const Gallery = () => {
   );
 };
 
-export default Gallery;

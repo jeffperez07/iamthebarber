@@ -1,3 +1,4 @@
+
 import React, { useState, useEffect } from 'react';
 import { Menu, X, Scissors } from 'lucide-react';
 
@@ -91,4 +92,3 @@ const Header = () => {
   );
 };
 
-export default Header;

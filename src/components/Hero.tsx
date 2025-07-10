@@ -1,3 +1,4 @@
+
 import React, { useEffect, useState } from 'react';
 import { ArrowRight } from 'lucide-react';
 
@@ -72,4 +73,3 @@ const Hero = () => {
   );
 };
 
-export default Hero;

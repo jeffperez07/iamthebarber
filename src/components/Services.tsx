@@ -1,3 +1,4 @@
+
 import React, { useRef, useEffect } from 'react';
 import { Scissors, Bean as Beard, SprayCan as Spray, PenTool } from 'lucide-react';
 
@@ -102,4 +103,3 @@ const Services = () => {
   );
 };
 
-export default Services;

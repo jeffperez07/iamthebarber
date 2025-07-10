@@ -1,3 +1,4 @@
+
 import React, { useRef, useEffect, useState } from 'react';
 import { Star, Quote } from 'lucide-react';
 
@@ -146,4 +147,3 @@ const Testimonials = () => {
   );
 };
 
-export default Testimonials;

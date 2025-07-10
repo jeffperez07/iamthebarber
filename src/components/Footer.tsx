@@ -1,3 +1,4 @@
+
 import React from 'react';
 import { Scissors, ChevronUp } from 'lucide-react';
 
@@ -128,4 +129,3 @@ const Footer = () => {
   );
 };
 
-export default Footer;
